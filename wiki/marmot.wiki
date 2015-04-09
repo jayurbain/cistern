@@ -1,1 +1,1 @@
-=*<font color="red">MarMoT has been moved to [https://github.com/muelletm/cistern github]!</font>*=
+=*<font color="red">MarMoT has been [http://cistern.cis.lmu.de/https://github.com/muelletm/cistern moved]!</font>*=
